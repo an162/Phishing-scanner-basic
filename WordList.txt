@@ -1,0 +1,106 @@
+Account Verification -> 2
+Urgent Security Alert -> 3
+Verify Your Identity -> 2
+Unusual Account Activity -> 3
+Limited Time Offer -> 2
+Free Trial Subscription -> 2
+Confirm Your Payment -> 2
+Your Account Status -> 2
+Update Your Billing Info -> 2
+Password Reset Required -> 3
+Important Notification -> 2
+Claim Your Reward Now -> 3
+Verify Your Email Address -> 2
+Account Termination Notice -> 3
+Suspicious Login Detected -> 3
+Exclusive Deal for You -> 2
+Verify Your Purchase -> 2
+Confirm Your Order -> 2
+Your Account Access Revoked -> 3
+Special Promotion for You -> 2
+Urgent Response Needed -> 3
+Review Your Recent Activity -> 2
+Account Security Check -> 2
+[Company Name] Security Team -> 1
+Account Lockout Warning -> 3
+Confirm Your Subscription -> 2
+Your Account Has Been Flagged -> 3
+Click Here to Avoid Account Closure -> 3
+Verify Your Login Details -> 2
+Reactivate Your Account Now -> 2
+Urgent -> 2
+Important -> 2
+Action required -> 2
+Attention -> 1
+Notification -> 1
+Alert -> 2
+Account update -> 2
+Verify -> 2
+Confirm -> 2
+Security check -> 2
+Suspicious activity -> 3
+Unusual login -> 3
+Limited time -> 2
+Special offer -> 2
+Exclusive deal -> 2
+Free -> 2
+Prize -> 2
+Reward -> 2
+Claim now -> 2
+Congratulations -> 1
+Win -> 2
+Lottery -> 2
+Inheritance -> 1
+Payment required -> 3
+Request for information -> 1
+Upgrade -> 2
+Emergency -> 2
+Tax refund -> 2
+Update your password -> 2
+Click the link below -> 3
+quick results -> 2
+free trials -> 2
+congratulations -> 2
+free groceries from -> 2
+Cryptocurrency-romance -> 3
+Payday loan -> 3
+One-time password bot -> 3
+OTP -> 3
+Student loan forgiveness -> 3
+Puppy purchase -> 3
+Check washing -> 3
+Free-gift QR code -> 3
+Oops, wrong number! -> 3
+Crypto refund -> 3
+I’ve got your package, where’s your house? -> 3
+Out-of-stock item -> 3
+Microsoft -> 2
+Apple -> 2
+PayPal -> 2
+Amazon -> 2
+Google -> 2
+Facebook -> 2
+Netflix -> 2
+Bank of America -> 2
+Wells Fargo -> 2
+Citibank -> 2
+Chase -> 2
+eBay -> 2
+Instagram -> 2
+Twitter -> 2
+LinkedIn -> 2
+Yahoo -> 2
+AOL -> 2
+Dropbox -> 2
+Adobe -> 2
+UPS -> 2
+DHL -> 2
+FedEx -> 2
+Walmart -> 2
+Target -> 2
+Best Buy -> 2
+American Express -> 2
+Visa -> 2
+Mastercard -> 2
+Expedia -> 2
+Airbnb -> 2
